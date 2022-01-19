@@ -1,0 +1,7 @@
+//
+// Copyright (C) 2022 David Norris <danorris@gmail.com>. All rights reserved.
+//
+
+/// @namespace util
+///
+/// @brief A collection of general-purpose C++ utilities.
